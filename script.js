@@ -1,2 +1,2 @@
 console.log("Hello World");
-console.log("New line");
+console.log("JavaScript is a scripting language");
